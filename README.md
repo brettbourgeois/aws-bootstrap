@@ -1,4 +1,4 @@
-##Exercises from The Good Parts of AWS
+## Exercises from The Good Parts of AWS
 
-###Notes
+### Notes
 CloudFormation -> AWS IaC
